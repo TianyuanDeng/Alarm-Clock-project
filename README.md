@@ -15,8 +15,8 @@ Tianyuan Deng
 |Pre-condition|Clock must in the ON mode|
 
 
-| Name          | Age           | Grade |
-| ------------- |:-------------:| -----:|
+| Scenarior         |    Alarm-Clock     |
+| Acotors |Operator|
 | Aaron         | 18            |      A|
 | col           | 21            |     B |
 | zebra         | 21            |    C  |
