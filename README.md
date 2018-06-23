@@ -8,3 +8,10 @@ Tianyuan Deng
 
 
 ![Image](https://github.com/TianyuanDeng/Alarm-Clock-project/blob/master/1529720793415.jpg)
+
+|Scenaior| Alarm-Clock| 
+|Actors| Operator| 
+|Stakeholder|Operator|
+|Pre-condition|Clock must in the ON mode|
+
+
