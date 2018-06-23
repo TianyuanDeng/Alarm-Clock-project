@@ -9,9 +9,18 @@ Tianyuan Deng
 
 ![Image](https://github.com/TianyuanDeng/Alarm-Clock-project/blob/master/1529720793415.jpg)
 
-|Scenaior| Alarm-Clock| 
+| Scenaior | Alarm-Clock | 
 |Actors| Operator| 
 |Stakeholder|Operator|
 |Pre-condition|Clock must in the ON mode|
+
+
+| Name          | Age           | Grade |
+| ------------- |:-------------:| -----:|
+| Aaron         | 18            |      A|
+| col           | 21            |     B |
+| zebra         | 21            |    C  |
+
+
 
 
