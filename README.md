@@ -21,7 +21,7 @@ Tianyuan Deng
 
 
 
-| Name          | Age           | Grade |
+| Scenarior         | Age           | Grade |
 | ------------- |:-------------:| -----:|
 | Aaron         | 18            |      A|
 | col           | 21            |     B |
