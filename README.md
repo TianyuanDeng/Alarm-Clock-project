@@ -8,4 +8,4 @@ Tianyuan Deng
 *Identify the top-level functional requirements for the clock and model them with a use case diagram and a use case description.*
 *You can create the diagram by hand and take a photo of it or you can use a diagramming tool to create it. One free diagramming tool is https://www.draw.io/ (Links to an external site.)Links to an external site.. The use case description is to be written in markdown. The diagram and description are to be placed in the README.md file that is part of the repo.*
 
-！[Image](https://github.com/TianyuanDeng/Alarm-Clock-project/blob/master/1529720793415.jpg)
+![Image](https://github.com/TianyuanDeng/Alarm-Clock-project/blob/master/1529720793415.jpg)
